@@ -4,7 +4,6 @@ Adhoc- Administration Made Easy is a responsive website using Bootstrap
 #Tools used
 > - [HTML5](https://developer.mozilla.org/en-US/docs/Web/Guide/HTML/HTML5)
 > - [Bootstrap](https://getbootstrap.com/docs/4.0/getting-started/introduction/)
-> - [CSS](https://www.w3schools.com/css/)  
 
 #Get it local 
 
